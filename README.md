@@ -1,2 +1,34 @@
 # DSA
-All common dataStructures notes and common questions notes
+- All common DataStructures, Python Basics notes and common questions notes
+- DataStructures covered:
+  -  Arrays
+  -  Linked Lists
+  -  Queues
+  -  Stacks
+  -  Trees
+  -  Binary Search Trees
+  -  Graphs
+    -  BFS , DFS
+    -  Cycle Detection
+    -  Shortest Path algorithms
+      - Dijkstra's Algorithm
+      - Bellman Ford Algorithm
+      - Floyd Warshall Algorithm   
+    -  Minimum Spanning Trees
+    -  Topological Sort
+  -  Heaps
+  -  Disjoint Sets
+  -  Hash Maps
+  -  Sets
+- Popular Problem solving Techniques Includes:
+  - Recursion
+  - Binary Search
+  - Back Tracking
+  - Pattern Searching - KMP and Rabin Karp
+  - Sorting Algorithms
+    - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+- OOPs      
