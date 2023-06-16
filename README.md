@@ -1,5 +1,5 @@
 # DSA
-- All common DataStructures, Python Basics notes and common questions notes
+- All DSA course codes and notes
 - DataStructures covered:
   -  Arrays
   -  Linked Lists
